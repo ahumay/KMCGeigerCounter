@@ -312,4 +312,7 @@
     return self.hardwareFramesPerSecond - self.droppedFrameCountInLastSecond;
 }
 
+
+
 @end
+    
